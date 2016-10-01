@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<resources>
+
+    <string name="app_name">Fashion Geek</string>
+
+    <!-- Activity Titles -->
+    <string formatted="false" name="jacketsFilterActivity">Jackets</string>
+    <string formatted="false" name="trousersFilterActivity">Trousers</string>
+    <string formatted="false" name="shirtsFilterActivity">Shirts</string>
+    <string formatted="false" name="tiesFilterActivity">Ties</string>
+    <string formatted="false" name="fashionGeekMain">Fashion Geek</string>
+    <string formatted="false" name="storeCatalogScreen1Activity">Fashion Geek</string>
+    <string formatted="false" name="jacketsActivity">Jackets</string>
+    <string formatted="false" name="trousersActivity">Trousers</string>
+    <string formatted="false" name="shirtsActivity">Shirts</string>
+    <string formatted="false" name="tiesActivity">Ties</string>
+    <string formatted="false" name="search">Search Matches</string>
+    <string formatted="false" name="aboutDescription">Fashion Geek is a  prototype of Mens fashion app designed and developed for the IBM #include&lt;geek.tech&gt; hackathon by Athithyan .This application requires internet cconnectivity, so ensure that you have internet connection to use the functionality of this application.</string>
+    <string formatted="false" name="selectAnImage">Select the Image you want to find a match </string>
+</resources>
+
+
